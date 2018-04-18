@@ -1,0 +1,1 @@
+SELECT item_name ,item_price  FROM item I WHERE I.category_id = 1; 
